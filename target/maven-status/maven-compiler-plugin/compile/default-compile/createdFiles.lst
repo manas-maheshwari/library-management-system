@@ -1,0 +1,6 @@
+com\libmgmt\sampleproject\Controller.class
+com\libmgmt\sampleproject\BorrowedBook.class
+com\libmgmt\sampleproject\Book.class
+com\libmgmt\sampleproject\Database.class
+com\libmgmt\sampleproject\User.class
+com\libmgmt\sampleproject\Main.class
